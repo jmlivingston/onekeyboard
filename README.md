@@ -1,3 +1,8 @@
+TLDR
+1. Download SharpKeys and swap the CMD (`⌘`) key with the CTRL (`^`) key. Make sure it is vice versa as well.
+2. Download AutoHotKey
+3. Run scripts/english/mac.ahk
+
 Onekeyboard - Apple Keyboard Layout under Windows
 =================================================
 This small autohotkey script simulates the Macintosh OSX keyboard layout under Windows.
